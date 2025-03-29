@@ -1,2 +1,2 @@
 # JPI-shop
-JohnnyPickleIndustriesShop
+the johnny pickle industries shop.
